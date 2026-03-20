@@ -55,13 +55,6 @@ const manvith = {
 - AI-powered developer workflows
 - System design & architecture
 - Building practical AI tools for real-world applications
-
----
-
-## 🚧 Currently Building
-
-- 🔍 **GraphIQ** — AI powered relational intelligence system
-
 ---
 
 ## 🛠️ Tools I Use
