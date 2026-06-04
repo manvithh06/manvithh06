@@ -25,7 +25,7 @@ const manvith = {
 
   currentlyBuilding: [
     "AI-powered relational intelligence systems",
-    "Smart transaction surveillance tools",
+    "Agentic AI systems powered by LLM's
   ],
 
   languages        : ["Python", "JavaScript", "SQL"],
