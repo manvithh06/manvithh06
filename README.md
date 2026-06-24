@@ -24,7 +24,7 @@ const manvith = {
   currentFocus     : "Building intelligent systems that bridge AI and real-world applications",
 
   currentlyBuilding: [
-    "AI-powered relational intelligence systems",
+    "ML based forex trading bot ",
     "Agentic AI systems powered by LLM's
   ],
 
