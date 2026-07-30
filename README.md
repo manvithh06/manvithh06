@@ -30,7 +30,7 @@ const manvith = {
 
   languages        : ["Python", "JavaScript", "SQL"],
   frontend         : ["React", "Vite", "HTML/CSS"],
-  backend          : ["Node.js", "Express", "Flask"],
+  backend          : ["Node.js", "FastAPI"],
   ai_ml            : ["TensorFlow", "scikit-learn", "Jupyter", "Pandas", "NumPy"],
   databases        : ["MongoDB", "PostgreSQL"],
   tools            : ["Git", "Vercel", "Docker"],
