@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p>🎓 &nbsp;<b>B.E. in AI &amp; Machine Learning</b>, NMAMIT, Nitte</p>
+      <p>🎓 &nbsp;<b>B.Tech in AI &amp; Machine Learning</b>, NMAMIT, Nitte</p>
       <p>📍 &nbsp;Mangaluru, Karnataka, India</p>
       <p>💼 &nbsp;AI/ML Engineer · Full-Stack ML Developer</p>
       <p>🤝 &nbsp;Open to <b>AI/ML internships</b> &amp; collaborations</p>
